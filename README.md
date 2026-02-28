@@ -141,10 +141,10 @@ README.md
 ```
 
 ## 💡 What This Project Demonstrates
-- ✔ Ability to translate business problems into analytical questions
-- ✔ Data modeling using star schema
-- ✔ Strong DAX KPI development
-- ✔ Insight generation beyond visualizations
-- ✔ Actionable business recommendations
+- [x] Ability to translate business problems into analytical questions
+- [x] Data modeling using star schema
+- [x] Strong DAX KPI development
+- [x] Insight generation beyond visualizations
+- [x] Actionable business recommendations
 
 🔙 [Back to Portfolio](https://github.com/BlladeRunner)
