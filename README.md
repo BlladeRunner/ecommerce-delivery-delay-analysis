@@ -144,4 +144,10 @@ README.md
 - [x] Operational impact quantification
 - [x] ctionable data-driven recommendations
 
+## Key Findings
+- Even 1–3 day delays triple the probability of low customer ratings.
+- Severe delays (8+ days) push dissatisfaction above 75–80%.
+- Late deliveries represent a significant share of at-risk GMV.
+- Operational delay control directly impacts customer satisfaction and revenue protection.
+
 🔙 [Back to Portfolio](https://github.com/BlladeRunner)
